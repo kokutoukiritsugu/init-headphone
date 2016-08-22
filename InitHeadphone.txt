@@ -1,0 +1,6 @@
+based on Control Center 5.0001.0.58
+
+hp.dll
+InitHeadphone.exe
+SvThANSP.sys
+
